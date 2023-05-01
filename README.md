@@ -4,5 +4,5 @@ OpenSSL implementation of client-side password hashing using argon2 password has
 ## Technologies used
 python, socket (py module), argon2, resource (py module)
 
-##By
+## By
 Aryan Yadav and Samvit Jatia
