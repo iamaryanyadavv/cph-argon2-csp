@@ -5,5 +5,5 @@ Read the project report (added as a pdf file) for better understanding of it.
 ## Technologies used
 python, socket (py module), argon2, resource (py module)
 
-## By
-Aryan Yadav and Samvit Jatia
+## Contributors
+Aryan Yadav and Samvit Jatia from March to May 2023
